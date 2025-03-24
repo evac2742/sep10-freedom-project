@@ -12,10 +12,15 @@
 * [Desktop]()
 
 ## Colors
-* `#ABC123`
+* `#403C43` Very dark grey
+* `#8C7F7F` Brown
+* `#A29DA5` Grey
 
 ## Fonts
-* [Text](URL)
+* [Graphic Arts Header Font Pacifico](https://fonts.google.com/specimen/Pacifico)
+* [Before Technology Font Caveat](https://fonts.google.com/specimen/Caveat)
+* [Current Technology Font Fira Sans Condensed](https://fonts.google.com/specimen/Fira+Sans+Condensed)
+* [Future Font Tektur](https://fonts.google.com/specimen/Tektur?query=futur)
 
 ## Timeline
 
