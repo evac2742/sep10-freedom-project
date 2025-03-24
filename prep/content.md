@@ -13,12 +13,15 @@ Topic: Graphic Arts
     * **Phone**: These can be used for on the go drawings or to contacts others about designs.
     * **Camera**: You can use this to take a picture and to be creative and add your own touch and art to the picture.
     * **Storage**: Physical backup storage can also be used
+      
     [Information here](https://www.goskills.com/Design/Resources/Graphic-design-tools)
+    
 * Graphic Arts Software
   * Some software tools that were listed were resource sites, portfolio, and cloud storage.
     * **Resource sites**: This can be helpful because you can use this to gather ideas or information on your design.
     * **Portfolio**: This can be used for designers to show off their work.
     * **Cloud storage**: You use this to save all your projects/ arts so they don’t get lost.
+      
 [Information here](https://www.goskills.com/Design/Resources/Graphic-design-tools)
 
 ## Part B: possible future technology
