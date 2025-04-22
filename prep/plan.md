@@ -9,7 +9,10 @@
 * [Future Ineventons pg.2](https://wireframe.cc/wDnviW)
 
 **Desktop**
-* [Desktop]()
+* [Desktop Home Page](https://wireframe.cc/mQhU1Q)
+* [Before Technology](https://wireframe.cc/O2JTIO)
+* [Current Technology](https://wireframe.cc/f1Q9mh)
+* [Future Invention](https://wireframe.cc/okcwdk)
 
 ## Colors
 * `#403C43` Very dark grey
