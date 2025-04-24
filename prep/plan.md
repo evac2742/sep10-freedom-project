@@ -36,7 +36,8 @@ Apr 22-23: Wireframes
 
 #### Beyond MVP
 
-* Task
+* Centering everything
+* 
 
 
 
