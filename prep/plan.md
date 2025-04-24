@@ -30,7 +30,8 @@ Apr 22-23: Wireframes
 #### MVP
 
 * Task/Timeline
-
+* All content on website
+* Navbar, carousel, and A-Frames completed
 ---
 
 #### Beyond MVP
