@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.intro {
+    border: black 3px solid;
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+}
+
+.introo {
+    border: black 3px solid;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.hardware-tools {
+    padding-top: 20px;
+    padding-left: 60px;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.p-current {
+    padding-left: 60px;
+}
+
+.tablet {
+    padding-top: 1px;
+    padding-left: 60px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.tablet-info {
+    padding-left: 60px;
+}
