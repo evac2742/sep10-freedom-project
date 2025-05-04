@@ -6,40 +6,54 @@ h2 {
     text-align: center;
 }
 
+#top {
+    background-image: url(graphicarts.webp);
+    padding-bottom: 250px;
+    padding-top: 250px;
+    color: red;
+}
+
+#intro {
+    padding-top: 50px;
+}
 .intro {
     border: black 3px solid;
+    font-size: 30px;
     margin-left: 150px;
     margin-right: 150px;
+    margin-bottom: 30px;
     text-align: center;
 }
 
 .introo {
+    font-size: 20px;
     border: black 3px solid;
     margin-left: 150px;
     margin-right: 150px;
     margin-top: 10px;
+    margin-bottom:50px;
     text-align: center;
 }
 
-.hardware-tools {
-    padding-top: 20px;
-    padding-left: 60px;
-    text-decoration: underline;
-    font-weight: bold;
-    font-size: 30px;
+#before {
 }
 
-.p-current {
-    padding-left: 60px;
-}
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    width: 60%;
+    margin: 50px auto;
+    color: black;
+  }
 
-.tablet {
-    padding-top: 1px;
-    padding-left: 60px;
-    font-weight: bold;
+  .grid-container textarea {
+    text-align: center;
+    height: 120px;
+    padding: 10px;
     font-size: 20px;
-}
+    color: black !important;
+    width: 100%;
+  }
 
-.tablet-info {
-    padding-left: 60px;
-}
+
