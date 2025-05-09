@@ -36,8 +36,11 @@ Apr 22-23: Wireframes
 
 #### Beyond MVP
 
-* Centering everything
-* 
+- [ ] Centering everything
+- [ ] Good spacing
+- [ ] Fonts
+- [ ] Colors
+- [ ] 
 
 
 

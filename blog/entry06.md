@@ -1,7 +1,11 @@
 # Entry 6
-##### X/X/XX
+##### 5/7/25
 
-Text
+# Context
+We have now finished our MVP which is the basic need for our website.
+
+# Content
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 
