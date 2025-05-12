@@ -1,8 +1,8 @@
 # Presentation Plan
 
 ## Hook
-* 
-
+* Imagine turning your ideas into art on any device anywhere you go.
+  
 ## Product
 * 
 
