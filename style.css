@@ -1,28 +1,36 @@
 h1 {
     text-align: center;
     font-family: "Pacifico", cursive;
-    font-weight: 400;
+    font-weight: 1000;
     font-style: normal;
-    color: #A29DA5;
+    color: black;
+    font-size: 100px;
   }
+
+h2 {
+    text-align: center;
+    color: #8C7F7F;
+    font-size: 50px;
 }
 
 .center {
-    padding-left: 100px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 50px;
 }
 
 #top {
-    background-image: url(graphicarts.webp);
+    background-image: url(graphicartsback.jpeg);
     padding-bottom: 250px;
     padding-top: 250px;
-    color: red;
+    color: #8C7F7F;
 }
 
 #intro {
     padding-top: 50px;
-
-
 }
+
 .intro {
     border: black 3px solid;
     font-size: 30px;
@@ -30,6 +38,8 @@ h1 {
     margin-right: 150px;
     margin-bottom: 30px;
     text-align: center;
+    background: #a9a39d;
+    color: #54514e;
 }
 
 .carousel-inner {
@@ -39,13 +49,15 @@ h1 {
     padding-bottom: 50px;
 }
 .introo {
-    font-size: 20px;
+    font-size: 30px;
     border: black 3px solid;
     margin-left: 150px;
     margin-right: 150px;
     margin-top: 10px;
     margin-bottom:50px;
     text-align: center;
+    background: #a9a39d;
+    color: #54514e;
 }
 
 #before {
@@ -53,6 +65,7 @@ h1 {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+    background: #c6e4ff;
 }
 
 #current {
@@ -61,6 +74,7 @@ h1 {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+    background: #ffd0ed;
 }
 
 .grid-container {
@@ -84,4 +98,8 @@ h1 {
 p {
     font-size: 20px;
     text-align: center;
+}
+
+.future {
+    background: #ff66c4;
 }
