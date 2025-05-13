@@ -16,10 +16,9 @@
 
 ## Conclusion
 * URL to project
-* Takeaways: Design is storytelling.
-Every layout decision shapes how people experience your message.
-* Determination is key: Fixing bugs on your website
-* Design is trial and error: You may make mistakes throughout the process.
+* Takeaways: Design is storytelling: Every layout decision shapes how people experience your message. It shows a meaning.
+* Determination is key: Fixing bugs on your website and show examples from when I had bugs.
+* Design is trial and error: You may make mistakes throughout the process but you keep trying and you can succeed in what you are trying to create.
 
 <!-- EXAMPLE
 
