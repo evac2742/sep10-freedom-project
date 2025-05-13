@@ -1,16 +1,25 @@
 # Presentation Plan
 
 ## Hook
-* 
-
+* Imagine turning your ideas into art on any device, anywhere you go.
+  
 ## Product
-* 
+* Website product overview
+* Highlight the 3 main sections (Before Technology, Current technology, and Future technology)
 
 ## Process
-* 
+* Part A and part B overview with images of my wireframes.
+* Code snippets
+* Tool learning
+* CSS and HTML
+* A-Frame
 
 ## Conclusion
-* 
+* URL to project
+* Takeaways: Design is storytelling.
+Every layout decision shapes how people experience your message.
+* Determination is key: Fixing bugs on your website
+* Design is trial and error: You may make mistakes throughout the process.
 
 <!-- EXAMPLE
 
